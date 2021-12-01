@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8cb560"/>
+      <stop offset="1" stop-color="#639d2b"/>
+    </linearGradient>
+  </defs>
+  <g id="Arrow_Button" data-name="Arrow Button" transform="translate(-1136 -7427)">
+    <rect id="Rectangle_76" data-name="Rectangle 76" width="50" height="50" rx="25" transform="translate(1136 7427)" fill="url(#linear-gradient)"/>
+    <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(1153 7446)">
+      <path id="Path_4" data-name="Path 4" d="M15.872,46.924l-4.789-4.789a.748.748,0,0,0-1.058,1.058L13.537,46.7H.748a.748.748,0,1,0,0,1.5H13.537l-3.511,3.511a.748.748,0,0,0,1.058,1.058l4.788-4.789A.748.748,0,0,0,15.872,46.924Z" transform="translate(0 -41.916)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
