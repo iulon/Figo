@@ -194,7 +194,7 @@
     /* section 4 */
     .breakfest{
         display: flex;
-        flex-direction: column;
+        /* flex-direction: column; */
     }
     .sec-4-menu{
         height: 450px;
@@ -260,7 +260,7 @@
         width: 300px;
     }
     .nav{
-        display: none;
+        display: block;
     }
     .bar{
         display: block;
@@ -269,6 +269,12 @@
     
 }
 @media (max-width:900px){
+    .nav {
+        display: none;
+    }
+    .hamburger {
+        display: block;
+    }
     .footer{
     
         display: flex;
