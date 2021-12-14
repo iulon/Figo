@@ -747,7 +747,6 @@ font-weight:calc(400);
 }
 .chicken{
 	width: 260px;
-	height: 250px;
 	opacity: 1;
 	-webkit-transition: 1s;
 	-o-transition: 1s;
@@ -790,21 +789,21 @@ font-weight:calc(400);
 	padding-right: 30px;
 	padding-bottom: 140px;
 }
-.fa-arrow-left{
-	font-size: 22px;
-    cursor: pointer;
-	color: #212529;
+.slider-arrows{
+	border: none;
+	cursor: pointer;
+	background-color: transparent;
+	margin-left: 10px;
+}
+.slider-arrows i{
+	font-size: 32px;
+	color: #333;
 }
 .fa-arrow-left:hover{
-	color: green;
-}
-.fa-arrow-right{
-	font-size: 22px;
-	cursor: pointer;
-	color: #212529;
+	color: #59882B;;
 }
 .fa-arrow-right:hover{
-	color: green;
+	color: #59882B;;
 }
 /* end section 4 */
 
